@@ -10,3 +10,8 @@ Paste your iteration result on the beginning of NPMI.py. Then run,
 ```
 python NPMI.py
 ```
+## Environment
+Ubuntu 22.04.3 LTS
+
+## Data set
+https://www.kaggle.com/code/errearanhas/topic-modelling-lda-on-elon-tweets
